@@ -1,6 +1,5 @@
-function firstChar(text) {
+function firstChar(str) {
   // your code here
-const str;
 for(let i =0 l i <str.length ; i++){
 if(str[i]!== ''){
 return str[i];
